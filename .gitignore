@@ -1,0 +1,36 @@
+# Secrets - DO NOT COMMIT
+backend/.env
+backend/firebase_config.json
+frontend/.env
+*.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Expo
+.expo/
+.metro-cache/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+*.egg-info/
+
+# Emergent
+.emergent/
+
+# Large files
+*.zip
+FINTRUST_CODE.zip
